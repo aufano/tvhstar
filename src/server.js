@@ -60,7 +60,7 @@ let progPreferences = {
   // Ejemplos con UDP y TCP: 
   // uri_prefix: 'rtp://@'
   // uri_prefix: 'http://x.x.x.x:yyy/udp/'
-  uri_prefix: 'http://192.168.100.1:4022/udp/',
+  uri_prefix: 'http://192.168.1.43:5555/udp/',
 
   // Respecto a XMLTV, el objetivo es crear un fichero XMLTV compatible con
   // "http://xmltv.cvs.sourceforge.net/viewvc/xmltv/xmltv/xmltv.dtd"
@@ -79,7 +79,7 @@ let progPreferences = {
   ficheroJSONTV: '/tmp/guia.movistar-xmltv.json',
   //
   // Fichero final:
-  ficheroXMLTV: '/home/luis/guia/guia.xml',
+  ficheroXMLTV: '/media/datos/dockers/tvheadend42/guia.xml',
 
   // 
   // El programa ejecutará una descarga del EPG nada más arrancar y se quedará 

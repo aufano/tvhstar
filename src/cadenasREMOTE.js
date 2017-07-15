@@ -89,17 +89,6 @@ const cadenasREMOTE = [
   },
   {
     "movistar_epg": false,
-    "movistar_fuente": "239.0.0.108:8208",
-    "movistar_id": "MV3",
-    "movistar_nombre": "#0",
-    "movistar_numero": "7",
-    "tvh_id": "MV3.es",
-    "tvh_m3u": true,
-    "tvh_nombre": "#0",
-    "tvh_tag": "SD|REMOTE"
-  },
-  {
-    "movistar_epg": false,
     "movistar_fuente": "239.0.0.25:8208",
     "movistar_id": "DESCONOCIDO2",
     "movistar_nombre": "Telemadrid",
@@ -118,39 +107,6 @@ const cadenasREMOTE = [
     "tvh_id": "OTRA.es",
     "tvh_m3u": true,
     "tvh_nombre": "La Otra",
-    "tvh_tag": "SD|REMOTE"
-  },
-  {
-    "movistar_epg": false,
-    "movistar_fuente": "239.0.3.32:8208", 
-    "movistar_id": "CABECERA_SERIES",
-    "movistar_nombre": "SERIES",
-    "movistar_numero": "10",
-    "tvh_id": "CABECERA_SERIES.es",
-    "tvh_m3u": true,
-    "tvh_nombre": "CABECERA SERIES",
-    "tvh_tag": "SD|REMOTE"
-  },
-  {
-    "movistar_epg": false,
-    "movistar_fuente": "239.0.5.4:8208",
-    "movistar_id": "CPSER",
-    "movistar_nombre": "Movistar Series",
-    "movistar_numero": "11",
-    "tvh_id": "CPSER.es",
-    "tvh_m3u": true,
-    "tvh_nombre": "Movistar Series",
-    "tvh_tag": "SD|REMOTE"
-  },
-  {
-    "movistar_epg": false,
-    "movistar_fuente": "239.0.3.20:8208",
-    "movistar_id": "MV2",
-    "movistar_nombre": "Movistar Series Xtra",
-    "movistar_numero": "12",
-    "tvh_id": "MV2.es",
-    "tvh_m3u": true,
-    "tvh_nombre": "Movistar Series Xtra",
     "tvh_tag": "SD|REMOTE"
   },
   {
@@ -327,83 +283,6 @@ const cadenasREMOTE = [
     "tvh_id": "ENERGY.es",
     "tvh_m3u": true,
     "tvh_nombre": "Energy",
-    "tvh_tag": "SD|REMOTE"
-  },
-  {
-    "movistar_epg": false,
-    "movistar_fuente": "239.0.3.30:8208",
-    "movistar_id": "CABECERA_CINE",
-    "movistar_nombre": "CINE",
-    "movistar_numero": "30",
-    "tvh_id": "CABECERA_CINE.es",
-    "tvh_m3u": true,
-    "tvh_nombre": "CABECERA CINE",
-    "tvh_tag": "SD|REMOTE"
-  },
-  {
-    "movistar_epg": false,
-    "movistar_fuente": "239.0.3.40:8208",
-    "movistar_id": "MV1",
-    "movistar_nombre": "Movistar Estrenos",
-    "movistar_numero": "31",
-    "tvh_id": "MV1.es",
-    "tvh_m3u": true,
-    "tvh_nombre": "Movistar Estrenos",
-    "tvh_tag": "SD|REMOTE"
-  },
-  {
-    "movistar_epg": false,
-    "movistar_fuente": "239.0.3.41:8208",
-    "movistar_id": "CPXTRA",
-    "movistar_nombre": "Movistar Xtra",
-    "movistar_numero": "32",
-    "tvh_id": "CPXTRA.es",
-    "tvh_m3u": true,
-    "tvh_nombre": "Movistar Xtra",
-    "tvh_tag": "SD|REMOTE"
-  },
-  {
-    "movistar_epg": false,
-    "movistar_fuente": "239.0.3.42:8208",
-    "movistar_id": "CPACCI",
-    "movistar_nombre": "Movistar Acción",
-    "movistar_numero": "33",
-    "tvh_id": "CPACCI.es",
-    "tvh_m3u": true,
-    "tvh_nombre": "Movistar Acción",
-    "tvh_tag": "SD|REMOTE"
-  },
-  {
-    "movistar_epg": false,
-    "movistar_fuente": "239.0.3.43:8208",
-    "movistar_id": "CPCOME",
-    "movistar_nombre": "Movistar Comedia",
-    "movistar_numero": "34",
-    "tvh_id": "CPCOME.es",
-    "tvh_m3u": true,
-    "tvh_nombre": "Movistar Comedia",
-    "tvh_tag": "SD|REMOTE"
-  },
-  {
-    "movistar_epg": false,
-    "movistar_fuente": "239.0.3.44:8208",
-    "movistar_id": "CPCOLE",
-    "movistar_nombre": "Movistar DCine",
-    "movistar_numero": "35",
-    "tvh_id": "CPCOLE.es",
-    "tvh_m3u": true,
-    "tvh_nombre": "Movistar DCine",
-    "tvh_tag": "SD|REMOTE"
-  },
-  {
-    "movistar_epg": false,
-    "movistar_fuente": "239.0.3.45:8208",
-    "movistar_id": "DCESP",
-    "movistar_nombre": "Movistar Cine Español",
-    "movistar_numero": "36",
-    "tvh_id": "DCESP.es",
-    "tvh_m3u": true,
-    "tvh_nombre": "Movistar Cine Español",
     "tvh_tag": "SD|REMOTE"
   },
   {
@@ -617,66 +496,6 @@ const cadenasREMOTE = [
   },
   {
     "movistar_epg": false,
-    "movistar_fuente": "239.0.4.193:8208",
-    "movistar_id": "CPDEP",
-    "movistar_nombre": "Movistar Deportes 1",
-    "movistar_numero": "55",
-    "tvh_categoria": "Sports",
-    "tvh_id": "CPDEP.es",
-    "tvh_m3u": true,
-    "tvh_nombre": "Movistar Deportes 1",
-    "tvh_tag": "SD|REMOTE"
-  },
-  {
-    "movistar_epg": false,
-    "movistar_fuente": "239.0.5.5:8208",
-    "movistar_id": "CPD2",
-    "movistar_nombre": "Movistar Deportes 2",
-    "movistar_numero": "56",
-    "tvh_categoria": "Sports",
-    "tvh_id": "CPD2.es",
-    "tvh_m3u": true,
-    "tvh_nombre": "Movistar Deportes 2",
-    "tvh_tag": "SD|REMOTE"
-  },
-  {
-    "movistar_epg": false,
-    "movistar_fuente": "239.0.1.246:8208",
-    "movistar_id": "MVF1",
-    "movistar_nombre": "Movistar Fórmula 1",
-    "movistar_numero": "57",
-    "tvh_categoria": "Sports",
-    "tvh_id": "MVF1.es",
-    "tvh_m3u": true,
-    "tvh_nombre": "Movistar Fórmula 1",
-    "tvh_tag": "SD|REMOTE"
-  },
-  {
-    "movistar_epg": false,
-    "movistar_fuente": "239.0.3.38:8208",
-    "movistar_id": "MVMTGP",
-    "movistar_nombre": "Movistar Moto GP",
-    "movistar_numero": "58",
-    "tvh_categoria": "Sports",
-    "tvh_id": "MVMTGP.es",
-    "tvh_m3u": true,
-    "tvh_nombre": "Movistar Moto GP",
-    "tvh_tag": "SD|REMOTE"
-  },
-  {
-    "movistar_epg": false,
-    "movistar_fuente": "239.0.5.2:8208",
-    "movistar_id": "GOLF+",
-    "movistar_nombre": "Movistar Golf",
-    "movistar_numero": "59",
-    "tvh_categoria": "Sports",
-    "tvh_id": "GOLF.TV.es",
-    "tvh_m3u": true,
-    "tvh_nombre": "Movistar Golf",
-    "tvh_tag": "SD|REMOTE"
-  },
-  {
-    "movistar_epg": false,
     "movistar_fuente": "239.0.0.18:8208",
     "movistar_id": "ESP",
     "movistar_nombre": "Eurosport 1",
@@ -733,41 +552,6 @@ const cadenasREMOTE = [
     "tvh_id": "FUTREP.es",
     "tvh_m3u": true,
     "tvh_nombre": "Canal Fútbol Replay",
-    "tvh_tag": "SD|REMOTE"
-  },
-  {
-    "movistar_epg": false,
-    "movistar_fuente": "239.0.6.54:8208",
-    "movistar_id": "CAZPES",
-    "movistar_nombre": "Caza y Pesca",
-    "movistar_numero": "65",
-    "tvh_categoria": "Nature / Animals / Environment",
-    "tvh_id": "CAZPES.es",
-    "tvh_m3u": true,
-    "tvh_nombre": "Caza y Pesca",
-    "tvh_tag": "SD|REMOTE"
-  },
-  {
-    "movistar_epg": false,
-    "movistar_fuente": "239.0.5.188:8208",
-    "movistar_id": "IBERAL",
-    "movistar_nombre": "Iberalia TV",
-    "movistar_numero": "66",
-    "tvh_id": "IBERAL.es",
-    "tvh_m3u": false,
-    "tvh_nombre": "Iberalia TV",
-    "tvh_tag": "SD|REMOTE"
-  },
-  {
-    "movistar_epg": false,
-    "movistar_fuente": "239.0.1.140:8208",
-    "movistar_id": "CFERIA",
-    "movistar_nombre": "Toros TV",
-    "movistar_numero": "67",
-    "tvh_categoria": "Arts / Culture (without music)",
-    "tvh_id": "CFERIA.es",
-    "tvh_m3u": true,
-    "tvh_nombre": "Toros TV",
     "tvh_tag": "SD|REMOTE"
   },
   {
@@ -1132,18 +916,6 @@ const cadenasREMOTE = [
   },
   {
     "movistar_epg": false,
-    "movistar_fuente": "239.0.3.193:8208",
-    "movistar_id": "CLASSI",
-    "movistar_nombre": "Classica HD",
-    "movistar_numero": "109",
-    "tvh_categoria": "Music / Ballet / Dance",
-    "tvh_id": "CLASSI.es",
-    "tvh_m3u": true,
-    "tvh_nombre": "Classica",
-    "tvh_tag": "SD|REMOTE"
-  },
-  {
-    "movistar_epg": false,
     "movistar_fuente": "239.0.0.30:8208",
     "movistar_id": "BBC",
     "movistar_nombre": "BBC World",
@@ -1308,116 +1080,6 @@ const cadenasREMOTE = [
     "tvh_m3u": true,
     "tvh_nombre": "CNC World",
     "tvh_tag": "SD|REMOTE"
-  },
-  {
-    "movistar_epg": false,
-    "movistar_fuente": "239.0.8.3:8208",
-    "movistar_id": "TELEFE",
-    "movistar_nombre": "Telefe Internacional",
-    "movistar_numero": "134",
-    "tvh_id": "TELEFE.es",
-    "tvh_m3u": false,
-    "tvh_nombre": "Telefe Internacional",
-    "tvh_tag": "SD|TV"
-  },
-  {
-    "movistar_epg": false,
-    "movistar_fuente": "239.0.8.193:8208",
-    "movistar_id": "GALAV",
-    "movistar_nombre": "Canal de las Estrellas",
-    "movistar_numero": "135",
-    "tvh_id": "GALAV.es",
-    "tvh_m3u": false,
-    "tvh_nombre": "Canal de las Estrellas",
-    "tvh_tag": "SD|TV"
-  },
-  {
-    "movistar_epg": false,
-    "movistar_fuente": "239.0.7.129:8208",
-    "movistar_id": "CARACO",
-    "movistar_nombre": "Caracol TV",
-    "movistar_numero": "136",
-    "tvh_id": "CARACO.es",
-    "tvh_m3u": false,
-    "tvh_nombre": "Caracol TV",
-    "tvh_tag": "SD|TV"
-  },
-  {
-    "movistar_epg": false,
-    "movistar_fuente": "239.0.8.2:8208",
-    "movistar_id": "TVREC",
-    "movistar_nombre": "TV RECORD",
-    "movistar_numero": "137",
-    "tvh_id": "TVREC.es",
-    "tvh_m3u": false,
-    "tvh_nombre": "TV Record",
-    "tvh_tag": "SD|TV"
-  },
-  {
-    "movistar_epg": false,
-    "movistar_fuente": "239.0.8.1:8208",
-    "movistar_id": "CHILE",
-    "movistar_nombre": "TV Chile",
-    "movistar_numero": "138",
-    "tvh_id": "CHILE.es",
-    "tvh_m3u": false,
-    "tvh_nombre": "TV Chile",
-    "tvh_tag": "SD|TV"
-  },
-  {
-    "movistar_epg": false,
-    "movistar_fuente": "239.0.7.131:8208",
-    "movistar_id": "COLOMB",
-    "movistar_nombre": "TV Colombia",
-    "movistar_numero": "139",
-    "tvh_id": "COLOMB.es",
-    "tvh_m3u": false,
-    "tvh_nombre": "TV Colombia",
-    "tvh_tag": "SD|TV"
-  },
-  {
-    "movistar_epg": false,
-    "movistar_fuente": "239.0.8.68:8208",
-    "movistar_id": "AZMUND",
-    "movistar_nombre": "AZ Mundo",
-    "movistar_numero": "140",
-    "tvh_id": "AZMUND.es",
-    "tvh_m3u": false,
-    "tvh_nombre": "AZ Mundo",
-    "tvh_tag": "SD|TV"
-  },
-  {
-    "movistar_epg": false,
-    "movistar_fuente": "239.0.8.67:8208",
-    "movistar_id": "CUBAV",
-    "movistar_nombre": "Cubavisión",
-    "movistar_numero": "141",
-    "tvh_id": "CUBAV.es",
-    "tvh_m3u": false,
-    "tvh_nombre": "Cubavisión",
-    "tvh_tag": "SD|TV"
-  },
-  {
-    "movistar_epg": false,
-    "movistar_fuente": "239.0.8.69:8208",
-    "movistar_id": "TLESUR",
-    "movistar_nombre": "Telesur",
-    "movistar_numero": "142",
-    "tvh_id": "TLESUR.es",
-    "tvh_m3u": false,
-    "tvh_nombre": "Telesur",
-    "tvh_tag": "SD|TV"
-  },
-  {
-    "movistar_epg": false,
-    "movistar_fuente": "239.0.0.1:8208",
-    "movistar_id": "ANTV",
-    "movistar_nombre": "Canal Sur Andalucía",
-    "movistar_numero": "150",
-    "tvh_id": "ANTV.es",
-    "tvh_m3u": false,
-    "tvh_nombre": "Canal Sur Andalucía",
-    "tvh_tag": "SD|TV"
   },
   {
     "movistar_epg": false,

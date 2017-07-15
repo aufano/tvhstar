@@ -1,3 +1,3 @@
 #!/bin/bash
-cd /home/luis/tvhstar
+cd /home/aufano/Scripts/tvhstar
 npm run build && npm run start
